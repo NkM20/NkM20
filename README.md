@@ -29,7 +29,7 @@ $ cat about.txt
 > Outside of coursework I spend time on security topics and Linux.
 
 $ uname -a
-> Debian / Kali Linux
+> Arch / Kali Linux
 ```
 
 ---
