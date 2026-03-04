@@ -1,12 +1,21 @@
-<div align="center">
+<h1 align="center"><a href="https://www.fjmarques.com">Fernando Marques</a></h1>
 
-# Fernando Marques
+<p align="center">
+  Computer Engineering graduate, currently doing a Master's in Informatics at IPB.<br/>
+  I mostly work on web and backend stuff. Sometimes security and systems.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fjfmarques-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fjfmarques/)
-[![GitHub](https://img.shields.io/badge/GitHub-NkM20-181717?style=flat&logo=github&logoColor=white)](https://github.com/NkM20)
-[![Portfolio](https://img.shields.io/badge/Portfolio-online-blue?style=flat&logo=vercel&logoColor=white)](https://portfolio26-nkm20.vercel.app)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/fjfmarques/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/NkM20">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.fjmarques.com">
+    <img src="https://img.shields.io/badge/Portfolio-fjmarques.com-blue?style=flat&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
